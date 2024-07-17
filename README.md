@@ -1,6 +1,6 @@
 # 🌍 Planejador de Viagens - Back-end
 
-Este repositório contém o back-end do Planejador de Viagens, desenvolvido em Node.js. Ele foi integrado ao projeto para facilitar a utilização das duas partes (front-end e back-end).
+Este repositório contém o back-end do Planejador de Viagens, que foi **oferecido pela Rocketseat** para quem escolheu a trilha de front-end. Sendo desenvolvido em Node.js. Ele foi integrado ao projeto para facilitar a utilização das duas partes (front-end e back-end).
 
 ## 📄 Descrição
 
@@ -18,7 +18,7 @@ O back-end do Planejador de Viagens é responsável por gerenciar as requisiçõ
 
 ## 📚 Documentação da API
 
-Para mais detalhes sobre a API utilizada, consulte a [documentação da API](https://link-da-documentacao-da-api).
+Para mais detalhes sobre a API utilizada, consulte a [documentação da API](https://nlw-journey.apidocumentation.com/reference).
 
 ## ⚙️ Instalação
 
