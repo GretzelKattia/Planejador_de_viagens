@@ -1,3 +1,6 @@
+import dotenv from 'dotenv';
+dotenv.config();
+
 import fastify from 'fastify'
 import cors from '@fastify/cors'
 import { createTrip } from './routes/create-trip'
