@@ -3,7 +3,8 @@
 Este projeto é um planejador de viagens desenvolvido durante o evento NLW da Rocketseat. 
 O objetivo é permitir que os usuários planejem suas viagens de forma eficiente e organizada.
 
-https://github.com/user-attachments/assets/2167f3af-c4a5-446a-bf61-70da81e35133
+https://github.com/user-attachments/assets/e478af9b-2c67-432e-b1b2-397034f443ca
+
 
 ## Índice
 
